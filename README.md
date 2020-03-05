@@ -5,3 +5,5 @@ I couldn't find any solutions that were not a pricey extension so I worked out a
 It's a bit manual with the Year options but hey its free.
 
 Hope it helps someone.
+
+```.age-gate-button{display: none;}```
